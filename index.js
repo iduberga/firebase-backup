@@ -43,7 +43,7 @@ function writeToFile(filename,data){
 
 function init() {
 	fetchData();
-	setInterval(fetchData, 86400000);
+	//setInterval(fetchData, 86400000);
 }
 
 init();
