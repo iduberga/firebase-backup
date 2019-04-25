@@ -1,8 +1,8 @@
 var https = require('https'),fs = require('fs');
 
 /* Set FIREBASE_URL and FIREBASE_SECRET */
-var FIREBASE_URL = 'YOUR_FIREBASE_URL';
-var FIREBASE_SECRET = 'YOUR_FIREBASE_SECRET';
+var FIREBASE_URL = 'https://bilbanan-96818.firebaseio.com/';
+var FIREBASE_SECRET = 'lulzzw9RgO4kydmhZCclUH3BDq1nwqc4rp2XYS13';
 
 function fetchData(){
 
